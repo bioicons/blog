@@ -20,7 +20,7 @@ I first tried to convince funding agencies to invest money into BioIcons to incr
 
 To increase the size of the catalog I therefore thought to myself, why not extract new illustrations from existing Open Access articles under open license. This is totally in line with the goals of the Open Access movement to reuse existing research to the fullest extent possible. 
 
-BioRender is a commercial service to draw biomedical illustrations and requires all created illustrations to be attributed with the phrase "Created with biorender.com". It is relatively easy to do a full text search for this term to find articles containing figures from BioRender released under Open Access license. If the article and illustration are available under CC BY 4.0 license they can be reused for free for any purpose provided that BioRender and the authors of the article are credited. This might sound like stealing BioRender's intellectual property but since scientists paid for premium licenses to use the illustrations in their work and BioRender retains the copyright over its illustrations reusing these illustrations is perfectly legal - at least theoretically. Before we talk about the actual legal problems of this approach, let's take a look at this dataset:
+BioRender is a commercial service to draw biomedical illustrations and requires all created illustrations to be attributed with the phrase "Created with biorender.com". It is relatively easy to do a full text search for this term to find articles containing figures from BioRender released under an Open Access license, that could be made availabe on BioIcons. For this the article and the illustration need to be available under CC BY 4.0 license so that reuse for any purpose is possible provided that BioRender and the authors of the article are credited. This might sound like stealing BioRender's intellectual property but since scientists paid for premium licenses to use the illustrations in their work and BioRender retains the copyright over its illustrations reusing these illustrations is perfectly legal - at least theoretically. Before we talk about the actual legal problems of this approach, let's take a look at this dataset:
 
 ## Overview of the dataset
 
@@ -65,25 +65,25 @@ The most common license in the dataset is CC BY 4.0, which allows full reuse of 
 
 With such a big dataset and the obvious business consequences I wanted to be absolutely sure that this extraction of illustrations from Open Access papers is legally sound. 
 
-I have therefore picked two papers as examples which according to the article license would be eligible to extract individual icons from. I asked BioRender if the license is correct and reuse is allowed and after some back and forth since they answered that the authors chose an invalid license and they will contact the publisher to issue a correction. These two papers are exemplary and I sent them a list of 9277 papers for follow-up which are similar in licensing to the two they had marked as wrong.
-Here, is my public tweet asking them last fall, to which they only responded in private:
-{{< tweet user="simonduerr" id="1714192336865869990" >}}
+I have therefore picked two papers as examples which according to the article license would be eligible to extract individual icons from. I asked BioRender if the license is correct and reuse is allowed and after some back and forth since they answered that the authors of both papers chose an invalid license and they will contact the publishers to issue a correction. This is even though the instution (TU Delft) that paid for this license expressely claims that illustrations can be used in Open Access papers[^7].  These two papers are exemplary and they only engaged with me in private even if I asked them publicly last fall: {{< tweet user="simonduerr" id="1714192336865869990" >}}
 
+After determining that the two test examples I sent them were copyright violations, I sent them a further list of 9277 papers for follow-up which are similar in licensing to the two they had marked as wrong. They acknowledged my email but have never responded to any request for follow-up. 
 
 A recent discussion on twitter has brought this problem to attention to the wider community.
 {{< tweet user="baym" id="1779249560679801059" >}}
 
 As pointed out the issue is that BioRender claims copyright over all their content even if used in illustrations that researchers create and pay for to publish.  
 
-The company has not directly responded to users. However, CEO Shiz Aoki which I also personally contacted about these issues this february (without response) promised to work on fixing the language that twitter users criticized about any modifications users make to BioRender content being "work made for hire". It remains open how they address the likely copyright violations in this dataset. 
+Even after many thousand people discussing this online the company has not directly responded to users. However, CEO Shiz Aoki which I also personally contacted about these issues this february (without response) promised to work on fixing the language that twitter users criticized about any modifications users make to BioRender content being "work made for hire". It remains open how they address the likely copyright violations reported here. 
 
-Of course, each illustration would need to be individually checked if the illustration has been excluded from the Creative Commons license but for the cases I checked manually this wasn't the case. BioRender confirmed me that "Created with BioRender.com" does not consitute a valid copyright credit line that would exclude the figure from the Creative Commons license. 
+Of course, each illustration would need to be individually checked if the illustration has been excluded from the Creative Commons license but for the cases I checked manually this wasn't the case. It also needs to be checked if authors individually got written permission from BioRender to publish the illustrations as CC BY, which I personally doubt many researchers did. BioRender confirmed me that "Created with BioRender.com" does not consitute a valid copyright credit line that would exclude the figure from the Creative Commons license. 
 
-The article I sent them (doi: 10.1002/adhm.202301837) has the BioRender figure licensed with the license as the article (CC BY) right next to some copyrighted figures reproduced with permission under copyright from a third party that aren't included in the license of the article (see Figure 5).
+One of the article I sent BioRender (doi: [10.1002/adhm.202301837](https://doi.org/10.1002/adhm.202301837) has the BioRender figure licensed with the license as the article (CC BY) right next to some copyrighted figures reproduced with permission under copyright from a third party that aren't included in the license of the article (see Figure 5).
 
-{{< figure src="/wiley_biorender_example.png" title="Figure 1 Reproduced under CC BY 4.0 Putra et al., Advanced Healthcare Materials, 2023 doi: 10.1002/adhm.202301837. Figure 1a) has invalid copyright according to BioRender. The article also contains third party images excluded from the CC BY license" >}}
+{{< figure src="/wiley_biorender_example.png" title="Figure 5 Reproduced under CC BY 4.0 Putra et al., Advanced Healthcare Materials, 2023 doi: 10.1002/adhm.202301837. Figure 1a) has invalid copyright according to BioRender. The article also contains third party images excluded from the CC BY license" >}}
 
-So while nominally these articles would be okay to be reused, in practice they are apparently not. In my opinion, it is imperative for BioRender to be more upfront about the limitations of its Premium plan and advise it's users with better copyright guidance. After I complained they published a [guide on Creative Commons](https://help.biorender.com/en/articles/8601313-creative-commons-licensing-for-biorender-figures-premium-only) licensing but since many thousand papers already likely violate their copyright this is a bit late. 
+So while nominally these articles would be okay to be reused, in practice they are apparently not. In my opinion, it is imperative for BioRender to be more upfront about the limitations of its Premium plan and advise it's users with better copyright guidance. After I complained last year they published a [guide on Creative Commons](https://help.biorender.com/en/articles/8601313-creative-commons-licensing-for-biorender-figures-premium-only) licensing but since many thousand papers already likely violate their copyright this is a bit late. Also this guide is never linked anywhere when exporting illustrations so researchers have to know about not being able to publish CC BY by default or have studied the terms of the academic license in quite some detail. BioRender even asks users whether the journal they are getting the license for is an Open Access journal: ![BioRender permission form](https://pbs.twimg.com/media/GLOtkjBXgAEfH8g?format=jpg&name=large) (image from [this tweet](https://twitter.com/EvolvedBiofilm/status/1779957127760490547/photo/1))
+
 Some publishers like eLife have already made changes to their editorial workflow so that in the future researchers do not unintentionally violate copyright.
 
 
@@ -100,3 +100,5 @@ Some publishers like eLife have already made changes to their editorial workflow
     https://www.snf.ch/en/33WC4FGNdpfXrqPV/news/immediate-open-access-without-restrictions-changes-as-of-1-january-2023
 [^6]:
     https://www.oapen.org/article/13934224-erc-oa-requirement
+[^7]:
+    https://www.tudelft.nl/en/library/library-for-researchers/publishing-outreach/biorender
