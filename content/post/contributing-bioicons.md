@@ -34,7 +34,7 @@ For all illustrations submitted via the Webform a Pull Request on GitHub will be
 
 ## Become a developer
 
-There are a number of open issues and feature suggestions. We'd welcome developers that are familiar with frontend development using Vue, Nuxt and Tailwind to contribute. A new backend will also be created at some point. Here python or php developers could become active and contribute to the project. Contact us if interested. 
+There are a number of open issues and feature suggestions on [github](https://github.com/duerrsimon/bioicons/issues) waiting for implementation. We'd welcome developers that are familiar with frontend development using Vue, Nuxt and Tailwind to contribute. A new backend will also be created at some point. Here python or php developers could become active and contribute to the project. Contact us if interested. 
 
 ## Contribute financially
 
