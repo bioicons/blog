@@ -1,4 +1,15 @@
-# BioRender Copyright Saga continues 
++++
+author = "simonduerr"
+title = "BioRender Copyright Saga continues"
+date = "2024-09-13"
+description = "BioRender continues to publish legally meaningless statements about them supporting CC BY."
+tags = [
+    "biorender",
+    "openscience"
+]
+weight = 0
++++
+
 
 On September 5 BioRender introduced changes to its stance on open access publishing which has been criticized in the past by the scientific community. 
 
@@ -37,3 +48,5 @@ We strongly advise scientists not use BioRender's own legal language to use thei
 
 If you really want to publish your BioRender illustration in an Open Access paper and you're allowed to use a different license for the figures clearly denote in the figure caption for each BioRender figure: "Copyright BioRender All Rights Reserved" instead of "Created with BioRender.com". This is legally bulletproof and fully complies with the BioRender Academic license giving you the right to publish the material but not to make the material available under the terms of the CC BY license (even if BioRender claims this). 
 Some publishers like PLOS however request that you exclusively use CC BY material so there you cannot use your BioRender figure. 
+
+It remains to be seen how BioRender will fix the many thousand articles already using their material under CC BY. 
