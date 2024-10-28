@@ -46,9 +46,9 @@ For the reasons listed above this statement is not legally valid as it attempts 
 
 We strongly advise scientists not use BioRender's own legal language to use their illustrations in Open Access journals published under CC BY. Using their language could lead to your paper needing to be corrected in the future. BioRender has claimed it will do this for at least two papers (although nothing has happend so far).
 
-If you really want to publish your BioRender illustration in an Open Access paper and you're allowed to use a different license for the figures clearly denote in the figure caption for each BioRender figure: "Copyright BioRender All Rights Reserved" instead of "Created with BioRender.com". This is legally bulletproof* and fully complies with the BioRender Academic license giving you the right to publish the material but not to make the material available under the terms of the CC BY license (even if BioRender claims this). 
+If you really want to publish your BioRender illustration in an Open Access paper and you're allowed to use a different license for the figures clearly denote in the figure caption for each BioRender figure: "Copyright BioRender All Rights Reserved" instead of "Created with BioRender.com". This is legally bulletproof[^1] and fully complies with the BioRender Academic license giving you the right to publish the material but not to make the material available under the terms of the CC BY license (even if BioRender claims this). 
 Some publishers like PLOS however request that you exclusively use CC BY material so there you cannot use your BioRender figure. 
 
 It remains to be seen how BioRender will fix the many thousand articles already using their material under CC BY. 
 
-* Please note that the author is not a lawyer but a scientist and this is for all intents and purposes not legal advice given by a registered lawyer. Please consult your university library or legal department.  
+[^1]: Please note that the author is not a lawyer but a scientist and this is for all intents and purposes not legal advice given by a registered lawyer. Please consult your university library or legal department.  
