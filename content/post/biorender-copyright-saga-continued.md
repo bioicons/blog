@@ -10,6 +10,9 @@ tags = [
 weight = 0
 +++
 
+>Good legal advice is timely, specific, and given by an expert; this post is none of these.
+>It was written by an engineer, not by a lawyer. It does not constitute legal advice.
+
 
 On September 5 BioRender introduced changes to its stance on open access publishing which has been criticized in the past by the scientific community. 
 
@@ -26,7 +29,7 @@ More specifically the full copyright notice as given on the webpage that needs t
 >For publishing with modifications, you'll need a paid BioRender plan and you must follow the relevant license terms that apply to your plan.
 
 
-This statement is unclear and legally problematic for several reasons that any lawyer or person even slightly familiar with the Creative Commons family of licenses can easily recognize. The following summary why this statement is legally invalid was largely written by ChatGPT showing that even non-humans can easily understand this statement is invalid. 
+This statement is unclear and legally problematic for several reasons that any lawyer or person even slightly familiar with the Creative Commons family of licenses can easily recognize.
 
 ## Problems with BioRender's new copyright statemnt
 1. **Contradiction with the CC-BY License:**<br>
@@ -46,9 +49,8 @@ For the reasons listed above this statement is not legally valid as it attempts 
 
 We strongly advise scientists not use BioRender's own legal language to use their illustrations in Open Access journals published under CC BY. Using their language could lead to your paper needing to be corrected in the future. BioRender has claimed it will do this for at least two papers (although nothing has happend so far).
 
-If you really want to publish your BioRender illustration in an Open Access paper and you're allowed to use a different license for the figures clearly denote in the figure caption for each BioRender figure: "Copyright BioRender All Rights Reserved" instead of "Created with BioRender.com". This is legally bulletproof[^1] and fully complies with the BioRender Academic license giving you the right to publish the material but not to make the material available under the terms of the CC BY license (even if BioRender claims this). 
+If you really want to publish your BioRender illustration in an Open Access paper and you're allowed to use a different license for the figures clearly denote in the figure caption for each BioRender figure: "Copyright BioRender All Rights Reserved" instead of "Created with BioRender.com". This is legally bulletproof and fully complies with the BioRender Academic license giving you the right to publish the material but not to make the material available under the terms of the CC BY license (even if BioRender claims this). 
 Some publishers like PLOS however request that you exclusively use CC BY material so there you cannot use your BioRender figure. 
 
 It remains to be seen how BioRender will fix the many thousand articles already using their material under CC BY. 
 
-[^1]: Please note that the author is not a lawyer but a scientist and this is for all intents and purposes not legal advice given by a registered lawyer. Please consult your university library or legal department.  
