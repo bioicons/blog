@@ -10,8 +10,8 @@ tags = [
 weight = 0
 +++
 
->Good legal advice is timely, specific, and given by an expert; this post is none of these.
->It was written by an engineer, not by a lawyer. It does not constitute legal advice.
+
+>**Disclaimer** This post was written by an engineer, not by a lawyer. This text does not constitute legal advice.
 
 
 On September 5 BioRender introduced changes to its stance on open access publishing which has been criticized in the past by the scientific community. 
