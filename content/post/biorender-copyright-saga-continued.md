@@ -11,7 +11,7 @@ weight = 0
 +++
 
 
->**Disclaimer** This post was written by an engineer, not by a lawyer. This text does not constitute legal advice.
+>**Disclaimer**: This post was written by an engineer, not by a lawyer. This text does not constitute legal advice.
 
 
 On September 5 BioRender introduced changes to its stance on open access publishing which has been criticized in the past by the scientific community. 
