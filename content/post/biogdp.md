@@ -18,7 +18,7 @@ Recently, Nucleic Acids Research published a new tool by a Chinese team of scien
 {{< figure src="https://github.com/user-attachments/assets/7d1c8771-9aa5-4268-bdf1-88c3dd5c1987" title="BioGDP overview from [DOI:10.1093/nar/gkae973](https://doi.org/10.1093/nar/gkae973). Image CC BY NC Jiang et al." >}}
 
 The authors note the following in comparison to other offers (highlights by me):
->Compared to existing tools, GDP offers distinct advantages. Unlike BioRender's subscription-based model or PhyloPic's limited scope, GDP is dedicated to establishing an **open biomedical diagramming ecosystem**.
+>Compared to existing tools, GDP offers distinct advantages. Unlike BioRender's subscription-based model or PhyloPic's limited scope, GDP is dedicated to establishing an __open biomedical diagramming ecosystem__.
 
 However, from the perspective of openess the platform falls short of its promises. 
 The author guidelines for the NAR Database issue mention: 
@@ -49,7 +49,6 @@ The BioGDP authors in the past also have made threats that they will legally pur
 {{< figure src="https://github.com/user-attachments/assets/108ee4df-db93-4780-bccd-ae05599b4476" title="BioGDP license statement on 12.9.2024" >}}
 
 The editor of the NAR Database issue has confirmed that the reviewers inquired with the authors about this:
-{{< tweet user="DanielRigden" id="1851540524269707687" >}}
 {{< tweet user="DanielRigden" id="1851540928248381453" >}}
 
 While I agree that credit is due this does not explain how third parties can reuse the images in open access papers without the threat of getting sued by BioGDP. 
