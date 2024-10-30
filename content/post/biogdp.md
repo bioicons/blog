@@ -1,7 +1,7 @@
 +++
 author = "simonduerr"
 title = "BioGDP: Free but not suitable for academic publishing"
-date = "2024-09-13"
+date = "2024-10-30"
 description = "BioGDP is a free platform for creating images but its license prohibits using it in academic publications."
 tags = [
     "openscience"
@@ -15,7 +15,7 @@ weight = 0
 
 Recently, Nucleic Acids Research published a new tool by a Chinese team of scientists for creating scientific illustrations using a web interface called: [BioGDP](https://biogdp.com)
 
-{{< figure src="https://github.com/user-attachments/assets/7d1c8771-9aa5-4268-bdf1-88c3dd5c1987" title="BioGDP overview from [DOI:10.1093/nar/gkae973](https://doi.org/10.1093/nar/gkae973). Image CC BY NC Jiang et al." >}}
+{{< figure src="https://github.com/user-attachments/assets/7d1c8771-9aa5-4268-bdf1-88c3dd5c1987" title="Figure 1: BioGDP overview from DOI:10.1093/nar/gkae973. Image CC BY NC Jiang et al." >}}
 
 The authors note the following in comparison to other offers (highlights by me):
 >Compared to existing tools, GDP offers distinct advantages. Unlike BioRender's subscription-based model or PhyloPic's limited scope, GDP is dedicated to establishing an __open biomedical diagramming ecosystem__.
@@ -29,7 +29,7 @@ This locks users into BioGDPs platform to create illustrations and precludes sha
 The main catch that prevents using BioGDP for academic publishing is the license conditions. First, it is unclear what exactly the academic license is because full terms aren't available on the page at all. 
 When exporting an image the platform tells users they can use it for academic work but not-commercially. 
 
-{{< figure src="https://github.com/user-attachments/assets/f78f2fce-5174-45a1-87c1-c3a7ead03ca9" title="BioGDP license conditions when exporting on 30.10.2024" >}}
+{{< figure src="https://github.com/user-attachments/assets/f78f2fce-5174-45a1-87c1-c3a7ead03ca9" title="Figure 2: BioGDP license conditions when exporting on 30.10.2024" >}}
 
 Now, this is were things get tricky and these are the same problems that BioRender has repeatedly stumbled over but this statement gets the mechanics of academic publishing wrong. 
 
@@ -46,7 +46,7 @@ Free access but no rights to reuse is generally referred to as public access. Th
 
 The BioGDP authors in the past also have made threats that they will legally pursue academics who violate the restrictions. They have since changed the wording but overall the license conditions remain unchanged. 
 
-{{< figure src="https://github.com/user-attachments/assets/108ee4df-db93-4780-bccd-ae05599b4476" title="BioGDP license statement on 12.9.2024" >}}
+{{< figure src="https://github.com/user-attachments/assets/108ee4df-db93-4780-bccd-ae05599b4476" title="Figure 3: BioGDP license statement on 12.9.2024" >}}
 
 The editor of the NAR Database issue has confirmed that the reviewers inquired with the authors about this:
 {{< tweet user="DanielRigden" id="1851540928248381453" >}}
