@@ -22,8 +22,10 @@ The authors note the following in comparison to other offers (highlights by me):
 
 However, from the perspective of openess the platform falls short of its promises. 
 The author guidelines for the NAR Database issue mention: 
-> By submitting a manuscript to the NAR Database Issue the authors certify that they have every right to bring the underlying data into public domain and accept all legal and ethical responsibility for doing so. [..] Authors are encouraged, but not required, to make the contents of their databases freely available as flat or relational files upon request.
-BioGDP, while accessible without loging or registration does not have a means to export illustrations in open vector format. There is a PDF export option but this produces images embedded in the PDF.
+> By submitting a manuscript to the NAR Database Issue the authors certify that they have every right to bring the underlying data into public domain and accept all legal and ethical responsibility for doing so.
+> Authors are encouraged, but not required, to make the contents of their databases freely available as flat or relational files upon request.
+
+BioGDP, while accessible without logging or registration does not have a means to export illustrations in open vector format. There is a PDF export option but this produces images embedded in the PDF.
 This locks users into BioGDPs platform to create illustrations and precludes sharing of high quality vector illustrations. Based on using the platform it is clear that the images are vector illustrations internally and the technological restriction to not be able to download them serves to keep users using BioGDP.
 
 The main catch that prevents using BioGDP for academic publishing is the license conditions. First, it is unclear what exactly the academic license is because full terms aren't available on the page at all. 
