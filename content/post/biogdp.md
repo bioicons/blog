@@ -25,7 +25,7 @@ The author guidelines for the NAR Database issue mention:
 > By submitting a manuscript to the NAR Database Issue the authors certify that they have every right to bring the underlying data into public domain and accept all legal and ethical responsibility for doing so.
 > Authors are encouraged, but not required, to make the contents of their databases freely available as flat or relational files upon request.
 
-BioGDP, while accessible without logging or registration does not have a means to export illustrations in open vector format. There is a PDF export option but this produces images embedded in the PDF.
+BioGDP, while accessible without logging in or registration does not have a means to export illustrations in open vector format. There is a PDF export option but this produces images embedded in the PDF.
 This locks users into BioGDPs platform to create illustrations and precludes sharing of high quality vector illustrations. Based on using the platform it is clear that the images are vector illustrations internally and the technological restriction to not be able to download them serves to keep users using BioGDP.
 
 The main catch that prevents using BioGDP for academic publishing is the license conditions. First, it is unclear what exactly the academic license is because full terms aren't available on the page at all. 
@@ -33,14 +33,16 @@ When exporting an image the platform tells users they can use it for academic wo
 
 {{< figure src="https://github.com/user-attachments/assets/f78f2fce-5174-45a1-87c1-c3a7ead03ca9" title="Figure 2: BioGDP license conditions when exporting on 30.10.2024" >}}
 
-Now, this is were things get tricky and these are the same problems that BioRender has repeatedly stumbled over but this statement gets the mechanics of academic publishing wrong. 
+Now, this is were things get tricky and these are the same problems that BioRender has repeatedly stumbled over. From the view of copyright this statement gets the mechanics of academic publishing completly wrong and therefore creates legal uncertainty. 
 
-There are two routes to publish an article: in a closed journal operating in a subscription model and in an open access journal. 
+Let me explain why: There are two routes to publish an article: 
+- in a closed journal operating in a subscription model
+- in an open access journal. 
 
-For a closed access journal, the academic authors usually sign a copyright transfer agreement with the journal which gives the journal the copyright over the whole article and the figures. The journal then exerts a commercial activity (even if the publisher is a non-profit) when they sell subscriptions to other academics who want to read the article. 
-So even while BioGDP allows publishings in journals, the restriction on commercial use applies and these terms legally contradict each other. 
+For a **closed access** journal, the academic authors usually sign a copyright transfer agreement with the journal which gives the journal the copyright over the whole article and the figures. The journal then exerts a commercial activity (even if the publisher is a non-profit) when they sell subscriptions to other academics who want to read the article. 
+So even while BioGDP allows publishing in journals, the restriction on commercial use applies and these terms legally contradict each other. 
 
-In the other case of open access publishing depending on the license there are also problems. The standard license for open access journals is CC BY. CC BY allows anyone to reproduce and modify a work even for commercial purposes provided attribution. 
+In the other case of **open access** publishing depending on the license there are also problems. The standard license for open access journals is CC BY. CC BY allows anyone to reproduce and modify a work even for commercial purposes provided attribution. 
 If an author publishes an illustration created in BioGDP in an open access journal under CC BY they give anyone the right to use that work for any purpose. 
 They therefore also violate the commercial use restriction in the BioGDP license conditions. 
 Note that there are some "open access" journals that use more restrictive licenses such as CC BY NC. In this case, using BioGDP illustrations would be permitted. However, the Berlin Declaration on open access which is generally referred to as the standard definition of the term clearly stipulates that the right to  create derivative works is part of the definition of open access. There is no exception for restricting commercial use wherefore CC BY NC is technically not an open access license. 
