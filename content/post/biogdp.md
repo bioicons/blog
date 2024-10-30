@@ -13,7 +13,7 @@ weight = 0
 
 >**Disclaimer**: This post was written by an engineer, not by a lawyer. This text does not constitute legal advice.
 
-Recently, Nucleic Acids Research published a new tool by a Chinese team of scientists for creating scientific illustrations using a web interface called: [BioGDP](https://biogdp.com)
+Recently, [Nucleic Acids Research published a new tool](https://doi.org/10.1093/nar/gkae973) by a Chinese team of scientists for creating scientific illustrations using a web interface called: [BioGDP](https://biogdp.com)
 
 {{< figure src="https://github.com/user-attachments/assets/7d1c8771-9aa5-4268-bdf1-88c3dd5c1987" title="Figure 1: BioGDP overview from DOI:10.1093/nar/gkae973. Image CC BY NC Jiang et al." >}}
 
