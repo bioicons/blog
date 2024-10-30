@@ -29,7 +29,7 @@ This locks users into BioGDPs platform to create illustrations and precludes sha
 The main catch that prevents using BioGDP for academic publishing is the license conditions. First, it is unclear what exactly the academic license is because full terms aren't available on the page at all. 
 When exporting an image the platform tells users they can use it for academic work but not-commercially. 
 
-{{< figure src="(https://github.com/user-attachments/assets/f78f2fce-5174-45a1-87c1-c3a7ead03ca9" title="BioGDP license conditions when exporting on 30.10.2024" >}}
+{{< figure src="https://github.com/user-attachments/assets/f78f2fce-5174-45a1-87c1-c3a7ead03ca9" title="BioGDP license conditions when exporting on 30.10.2024" >}}
 
 Now, this is were things get tricky and these are the same problems that BioRender has repeatedly stumbled over but this statement gets the mechanics of academic publishing wrong. 
 
@@ -45,11 +45,13 @@ Note that there are some "open access" journals that use more restrictive licens
 Free access but no rights to reuse is generally referred to as public access. This is for example the current policy of the NIH. But most of the big open access journals (like Nature Communications, PLoS One, eLife, Scientific Reports) all use the CC BY license. 
 
 The BioGDP authors in the past also have made threats that they will legally pursue academics who violate the restrictions. They have since changed the wording but overall the license conditions remain unchanged. 
+
 {{< figure src="https://github.com/user-attachments/assets/108ee4df-db93-4780-bccd-ae05599b4476" title="BioGDP license statement on 12.9.2024" >}}
 
 The editor of the NAR Database issue has confirmed that the reviewers inquired with the authors about this:
 {{< tweet user="DanielRigden" id="1851540524269707687" >}}
 {{< tweet user="DanielRigden" id="1851540928248381453" >}}
+
 While I agree that credit is due this does not explain how third parties can reuse the images in open access papers without the threat of getting sued by BioGDP. 
 The CC BY license allows to make derivatives and does not contain a clause that BioGDP has to be cited. This will create a similar situation as with BioRender where illustrations are nominally published in Open Access journals and the license of the article states that reuse is allowed but actually this is not the case. BioRender has threatend to issue corrections to these papers and given the past language BioGDP might be inclined to do the same.  Dalmeet Singh from ChemistryWorld nicely summarized this here: [ChemistryWorld Thousands of published studies may contain images with incorrect copyright licences](https://www.chemistryworld.com/news/thousands-of-published-studies-may-contain-images-with-incorrect-copyright-licences/4020367.article)
 It is obviously the authors right to do this since they put in the effort of creating and maintaining this website, however, in my view this should not have been published in NAR because they way how the license is written now will further pollute the life science literature with copyright violations. 
