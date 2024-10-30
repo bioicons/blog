@@ -17,8 +17,8 @@ Recently, Nucleic Acids Research published a new tool by a Chinese team of scien
 
 {{< figure src="https://github.com/user-attachments/assets/7d1c8771-9aa5-4268-bdf1-88c3dd5c1987" title="Figure 1: BioGDP overview from DOI:10.1093/nar/gkae973. Image CC BY NC Jiang et al." >}}
 
-The authors note the following in comparison to other offers (highlights by me):
->Compared to existing tools, GDP offers distinct advantages. Unlike BioRender's subscription-based model or PhyloPic's limited scope, GDP is dedicated to establishing an __open biomedical diagramming ecosystem__.
+The authors note the following in comparison to other offers:
+>Compared to existing tools, GDP offers distinct advantages. Unlike BioRender's subscription-based model or PhyloPic's limited scope, GDP is dedicated to establishing an open biomedical diagramming ecosystem.
 
 However, from the perspective of openess the platform falls short of its promises. 
 The author guidelines for the NAR Database issue mention: 
