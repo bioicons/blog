@@ -1,7 +1,7 @@
 +++
 author = "simonduerr"
 title = "BioGDP: Free but not suitable for academic publishing"
-date = "2024-11-1"
+date = "2024-11-01"
 description = "BioGDP is a free platform for creating images but its license prohibits using it in academic publications."
 tags = [
     "openscience"
