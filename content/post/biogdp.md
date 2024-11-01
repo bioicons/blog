@@ -1,13 +1,15 @@
 +++
 author = "simonduerr"
 title = "BioGDP: Free but not suitable for academic publishing"
-date = "2024-10-30"
+date = "2024-11-1"
 description = "BioGDP is a free platform for creating images but its license prohibits using it in academic publications."
 tags = [
     "openscience"
 ]
 weight = 0
 +++
+
+*This post was updated on 1.11.2024, it was originally published 30.10.2024*
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -58,6 +60,13 @@ The editor of the NAR Database issue has confirmed that the reviewers inquired w
 While I agree that credit is due this does not explain how third parties can reuse the images in open access papers without the threat of getting sued by BioGDP. 
 The CC BY license allows to make derivatives and does not contain a clause that BioGDP has to be cited. This will create a similar situation as with BioRender where illustrations are nominally published in Open Access journals and the license of the article states that reuse is allowed but actually this is not the case. BioRender has threatend to issue corrections to these papers and given the past language BioGDP might be inclined to do the same.  Dalmeet Singh from ChemistryWorld nicely summarized this here: [ChemistryWorld Thousands of published studies may contain images with incorrect copyright licences](https://www.chemistryworld.com/news/thousands-of-published-studies-may-contain-images-with-incorrect-copyright-licences/4020367.article)
 It is obviously the authors right to do this since they put in the effort of creating and maintaining this website, however, in my view this should not have been published in NAR because they way how the license is written now will further pollute the life science literature with copyright violations. 
+
+
+**Update 1.11.2024**
+{{< tweet user="rafeequemavoor" id="1852208626867556565" >}}
+
+Rafeeque Mavoor has shared some illustrations on BioGDP that look awfully similar to their BioRender pendant. Except for some of the shading everything like the proportions or the position and size of the blood vessels matches.  Note, that copyright for these illustrations is difficult to assess. A lawyer I talked to from the [Comptetence Center Digital Law](https://www.ccdigitallaw.ch/) told me once that in her view these schematic illustrations weren't copyrightable at all and only pictures would amount to the necessary level of creation to be allowed copyright status. I am no lawyer but at least from my perspective this seems a murky argument to be allowed to copy illustrations like BioGDP did and I am not sure it would hold up to legal scrutiny in a court of law. A picture is taken in few seconds, here actual trained professionals need to invest time and abstract the real heart into an easy to grasp illustration. To me it is natural that they are copyrightable (but again I am  no lawyer) and this constitutes copyright infringement. Anyway, another way to look at this is from the perspective of plagiarism for which we have clear standards in academia. After all BioGDP was published in a reputable academic journal. At least in my view the BioGDP heart illustration (even if changing a few minor details) is plagiarized from the BioRender illustration. Other illustrations might have a few more changes so they miss the mark of plagiarism but overall the whole BioGDP web page screams BioRender. They copied even the flawed publication license process. 
+
 
 
 
