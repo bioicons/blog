@@ -1,5 +1,5 @@
 baseURL = "https://blog.bioicons.com"
-title = "BioIcons Blog"
+#title = "BioIcons Blog"
 author = "Simon Dürr"
 copyright = "All content licensed under CC BY 4.0 except indicated otherwise."
 paginate = 10
