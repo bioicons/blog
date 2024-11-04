@@ -50,3 +50,6 @@ The users are distributed among all ranks of academic positions. Also industry r
 <br>
 
 The user survey is still open and this page will be updated in the future. It can be filled [here](https://docs.google.com/forms/d/e/1FAIpQLSeOGiStwF6Kj9Dqr2b_Ke_Tm1aRp0LmBMyGem-5Li-rghIlBw/viewform).
+
+
+Data behind this post is deposited on [GitHub](https://github.com/bioicons/user_survey).
